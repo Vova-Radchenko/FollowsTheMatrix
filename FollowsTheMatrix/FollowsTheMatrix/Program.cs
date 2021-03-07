@@ -9,7 +9,7 @@ namespace FollowsTheMatrix
         {
             int rows = 0;
             int colomns = 0;
-
+            // test commit
             Console.Write("Enter the number of rows: ");
             rows = Int32.Parse(Console.ReadLine());
 
